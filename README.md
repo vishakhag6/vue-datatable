@@ -1,4 +1,4 @@
-# datatables
+# Vue-datatables [Demo](https://vue-datatables.web.app)
 
 ## Project setup
 ```
